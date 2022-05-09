@@ -1,0 +1,20 @@
+{
+  "name": "rupiah-formatter",
+  "version": "1.0.0",
+  "description": "A number to currency (in rupiah) formatter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toto35711/rupiah-formatter.git"
+  },
+  "keywords": ["rupiah-formatter","rupiah","format"],
+  "author": "Toto Budi Trapsilo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toto35711/rupiah-formatter/issues"
+  },
+  "homepage": "https://github.com/Toto35711/rupiah-formatter#readme"
+}
