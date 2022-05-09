@@ -1,6 +1,6 @@
 {
   "name": "rupiah-formatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A number to currency (in rupiah) formatter.",
   "main": "index.js",
   "scripts": {
