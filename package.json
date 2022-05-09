@@ -2,7 +2,8 @@
   "name": "rupiah-formatter",
   "version": "1.0.1",
   "description": "A number to currency (in rupiah) formatter.",
-  "main": "index.js",
+  "main": "index",
+  "typings": "index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
