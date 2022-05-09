@@ -18,5 +18,5 @@ const formatted = rupiahFormatter.formatToString(10000); // Rp10.000,00
 
 use a rupiah format to number method :
 ```javascript
-const nominal = rupiahFormatter.formatToString('Rp10.000,00'); //100000
+const nominal = rupiahFormatter.formatToNumber('Rp10.000,00'); //100000
 ```
